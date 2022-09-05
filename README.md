@@ -70,5 +70,52 @@ CRUD é uma sigla e um acrônimo que abarca as principais operações com dados 
 
 #### Aprenderemos a realizar requisições http via AJAX em breve.
 
+## Um breve estudo sobre manipulação do DOM com JavaScript
+TAG, Atributos, Nós, Children, Child, Siblings, 
+
+### Exemplo de TAG's HTML:
+
+<html>, <head>, <body>  - Demarcam estruturas de uma página
+
+<meta> - Fornecem metainformações sobre a página
+
+<h1> - Níveis de cabeçalhos - utilizados em títulos, subtitulos, etc. (h1,h2,h3,h4,h5,h6)
+
+<BR> - Quebra de linha
+
+<p> - Parágrafos
+
+<div> - Separação em camadas - um layer - ou uma delimitação de conteúdo como se fosse uma caixa ;)
+
+<em>  - Enfase de texto 
+
+<ol> - Lista não ordenada
+
+<ul> - Lista não ordenada
+
+<li> - Item da lista
+
+<hr> - Linha horizontal
+
+<session> - Divide o conteúdo da página em sessões
+
+<style></style> - Bloco para inserção de estilos internos válidos somente para a página atual
+
+<link > - Cria uma referencia externa para um arquivo contendo estilos
+
+<script></script> - Bloco para inserção de arquivos JS.
+
+#### TAGs semânticas:
+São TAG's que pelo seu nome já se infere o conteúdo por ela delimitado.
+
+HEADER, MAIN, CONTENT, FOOTER, ARTICLE
 
 
+## Atributos de TAG's HTML
+src
+
+rel
+
+class
+
+data-*
