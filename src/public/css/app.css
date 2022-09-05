@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/** 
+ * Variáveis SASS - CSS
+ * @author Wanderlei Silva do Carmo <wander.silva@gmail.com>
+ * 
+*/
+@keyframes anima-1 {
+  from {
+    border: 1px outset #abcdef;
+    rotation: 0deg; }
+  to {
+    border: 10px outset #fedcba;
+    rotation: 360deg; } }
+body {
+  background-color: rgba(250, 250, 250, 0.8); }
+
+nav {
+  background-color: rgba(220, 228, 230, 0.8);
+  padding: 5px 5px; }
+
+.header {
+  padding: 2rem;
+  color: #aaaaaa;
+  text-shadow: rgba(255, 255, 255, 0.8);
+  background: #0738a1; }
+
+.tela-inicio {
+  padding: 20px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 2rem; }
+
+.box-opt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  width: 120px;
+  border: 1px solid gray;
+  border-radius: 50%;
+  background: radial-gradient(#dce4e8b5 5%, #0738a1 100%, #dce4e8b5 5%); }
+  .box-opt:hover {
+    cursor: pointer;
+    animation-name: anima-1;
+    animation-duration: 500ms;
+    animation-iteration-count: infinite; }
+  .box-opt:active {
+    border: 10px darkgray; }
+  .box-opt a {
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none; }
+
+/*# sourceMappingURL=app.css.map */
