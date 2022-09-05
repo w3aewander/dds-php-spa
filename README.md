@@ -106,6 +106,7 @@ TAG, Atributos, Nós, Children, Child, Siblings,
 <script></script> - Bloco para inserção de arquivos JS.
 
 #### TAGs semânticas:
+
 São TAG's que pelo seu nome já se infere o conteúdo por ela delimitado.
 
 HEADER, MAIN, CONTENT, FOOTER, ARTICLE
@@ -113,10 +114,7 @@ HEADER, MAIN, CONTENT, FOOTER, ARTICLE
 
 ## Atributos de TAG's HTML
 
-- src
-
-- rel
-
-- class
-
-- data-*
+src
+rel
+class
+data-*
