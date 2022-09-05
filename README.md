@@ -9,6 +9,6 @@ Assim sendo, as interações com a página, bem como o carregamento de dados, s�
 
 ## O que aprenderemos neste projeto?
 
-1. Utilizar técnicas para carregar conteúdo dinamicamente sem necessidade precisar recarregar toda a página.
+1. Utilizar técnicas para carregar conteúdo dinamicamente sem recarregar toda a página.
 
 2. Utilizar os principais verbos HTTP nas requisições: GET, POST, PUT, DELETE, PATH, OPTION, etc.
