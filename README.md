@@ -35,7 +35,7 @@ Assim sendo, as interações com a página, bem como o carregamento de dados, s�
 
 ## Requisições HTTP
 ### Verbos HTTP
-![Requisições HTTP](https://bytesofgigabytes.com/IMAGES/Networking/HTTPcommuncation/http%20communication.png 'Requisições HTTP')
+![Requisições HTTP](https://bytesofgigabytes.com/IMAGES/Networking/HTTPcommuncation/http%20communication.png)(https://bytesofgigabytes.com/IMAGES/Networking/HTTPcommuncation/http%20communication.png)
 
 **Fonte:** https://bytesofgigabytes.com/IMAGES/Networking/HTTPcommuncation/http%20communication.png. Acesso em: 05, setembro de 2022.
 
