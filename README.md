@@ -3,9 +3,32 @@
 
 > por Wanderlei Silva do Carmo <wander.silva@gmail.com>
 
+# Aplicação WEB com PHP 
+## HTML, CSS, JavaScript 
+Vamos aprender a tríplice aliança HTML, CSS e JAVASCRIT.
+> Só pra deixar claro: JavaScript não é JAVA? Pequisem sobre ambas, as diferenças entre elas! Posso adiantar que em geral JavaScript precisa do Browser (temos outra abordagem onde o JS é renderizado no lado do servidor, mas aí já é outra história.)
+
+HTML - Hypertext Transfer Protocol - é responsável pelo texto ou o conteúdo da página propriamante dito. Dizemos então que o HTML exibe o conteúdo estático.
+
+JS - ou JavaScript - é responsável pelo dinamismo da página. Requisição de dados, injeção de conteúdo automaticamente, animações e outras operações dinâmicas.
+
+CSS - CASCADE, STYLESHEET ou Folha de Estilo em Cascata provê a apresentação visual da página - equilibrio de cores, animações, o "Look and Feel". É muito importante pois o bom uso das técnicas CSS garantem um site bonito, funcional e atraente para o público.
+
+Para enterermos melhor temos que conhecer o DOM.
+
+## DOM - Document Object Model 
+
+"![DOM - document object model](https://www.optimizesmart.com/wp-content/uploads/2014/05/HTML-DOM-Tree.jpg, 'Document Object Model')
+
+**Fonte:** https://www.optimizesmart.com/wp-content/uploads/2014/05/HTML-DOM-Tree.jpg. Acesso em: 05, setembro de 2022.
+
+
+É uma árvore hierárquica que deve ser bem conhecida do desenvolvedor WEB pois é nela que trabalharemos para dar todo o dinamismo necessarios para criar sites atraentes.
+
+## Aplicação WEB - SPA
 Uma aplicação SPA, do inglês Simple Page Application usa uma abordagem onde o desenvolvimento da aplicação é realizada em página única, ou seja, apenas uma páginas principal, geralemente um index.html ou index.php.
 
-Segundo o site devmedia 
+Segundo o site devmedia  
 _"Single Page Applications (SPA) são aplicações cuja funcionalidade está concentrada em uma única página. Ao invés de recarregar toda a página ou redirecionar o usuário para uma página nova, apenas o conteúdo principal é atualizado de forma assíncrona, mantendo toda a estrutura da página estática."_ [(DEVMEDIA,2021)](https://www.devmedia.com.br/ja-ouviu-falar-em-single-page-applications/39009#:~:text=Single%20Page%20Applications%20(SPA)%20s%C3%A3o,a%20estrutura%20da%20p%C3%A1gina%20est%C3%A1tica. 'O que são Single Page Application')
 
 Assim sendo, as interações com a página, bem como o carregamento de dados, são realizados via requisições AJAX - Asynchron JavaScript And XML, sem recarregar página.
