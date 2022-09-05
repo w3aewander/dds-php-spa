@@ -6,9 +6,7 @@
 Uma aplicação SPA, do inglês Simple Page Application usa uma abordagem onde o desenvolvimento da aplicação é realizada em página única, ou seja, apenas uma páginas principal, geralemente um index.html ou index.php.
 
 Segundo o site devmedia 
-_O que são Single Page Applications SPA, ou Single Page Application, é uma aplicação em que todas as funcionalidades estão em uma única página
-Ao invés de recarregar a página toda, só uma parte do conteúdo muda
-Single Page Applications (SPA) são aplicações cuja funcionalidade está concentrada em uma única página. Ao invés de recarregar toda a página ou redirecionar o usuário para uma página nova, apenas o conteúdo principal é atualizado de forma assíncrona, mantendo toda a estrutura da página estática._
+_"Single Page Applications (SPA) são aplicações cuja funcionalidade está concentrada em uma única página. Ao invés de recarregar toda a página ou redirecionar o usuário para uma página nova, apenas o conteúdo principal é atualizado de forma assíncrona, mantendo toda a estrutura da página estática."_
 
 Assim sendo, as interações com a página, bem como o carregamento de dados, são realizados via requisições AJAX - Asynchron JavaScript And XML, sem recarregar página.
 
