@@ -16,4 +16,4 @@ Assim sendo, as interações com a página, bem como o carregamento de dados, s�
 ### Verbos HTTP
 ![Verbos HTTP](https://dericferreira.files.wordpress.com/2014/10/ic303440.png 'Verbos HTTP')
 
-*Fonte:* https://dericferreira.files.wordpress.com/2014/10/ic303440.png. Acesso em: 05, setembro de 2022.
+**Fonte:** https://dericferreira.files.wordpress.com/2014/10/ic303440.png. Acesso em: 05, setembro de 2022.
