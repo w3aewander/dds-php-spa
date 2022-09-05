@@ -87,7 +87,7 @@ p - Parágrafos
 
 div - Separação em camadas - um layer - ou uma delimitação de conteúdo como se fosse uma caixa ;)
 
-em  - Enfase de texto 
+em - Ênfase de texto 
 
 ol - Lista não ordenada
 
@@ -114,11 +114,14 @@ HEADER, MAIN, CONTENT, FOOTER, ARTICLE
 
 ### Atributos de TAG's HTML
 
-src   - informa o caminho da referência informada (caminho relativo ou absoluto do recursos)
+src   - Informa o caminho da referência informada (caminho relativo ou absoluto do recursos)
 
-rel   - tipo de referência ex. styleshet, icon, etc.  
+rel   - Tipo de referência ex. styleshet, icon, etc.  
 
-style - aplicação de estilos inline
-class
+style - Aplicação de estilos inline
 
-data-* - cria atributos personalizados. Ex. data-nome = "Wanderlei"
+class - Atribui o nome da classe a ser utilizado e que está referenciada na tag link para stylesheet
+
+data-* - Cria atributos personalizados. Ex. data-nome = "Wanderlei"
+
+type  - tipo de dado do atribuito. Ex. text, date, time, tel, email, etc.
