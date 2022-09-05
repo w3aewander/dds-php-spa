@@ -7,6 +7,12 @@ Uma aplicação SPA, do inglês Simple Page Application usa uma abordagem onde o
 
 Assim sendo, as interações com a página, bem como o carregamento de dados, são realizados via requisições AJAX - Asynchron JavaScript And XML, sem recarregar página.
 
+## Requisições HTTP
+### Verbos HTTP
+![Requisições HTTP](https://bytesofgigabytes.com/IMAGES/Networking/HTTPcommuncation/http%20communication.png 'Requisições HTTP')
+
+**Fonte:** https://bytesofgigabytes.com/IMAGES/Networking/HTTPcommuncation/http%20communication.png. Acesso em: 05, setembro de 2022.
+
 ## O que aprenderemos neste projeto?
 
 1. Utilizar técnicas para carregar conteúdo dinamicamente sem recarregar toda a página.
@@ -20,7 +26,7 @@ Assim sendo, as interações com a página, bem como o carregamento de dados, s�
 
 ### O que é CRUD?
 
-CRUD é uma sigla e um acrônimo que abarca as principais operações com dados na WEB. Estas operações geralmente são oferecidade via API - Application Programming Interface. As operações são explcadas a seguir:
+CRUD é uma sigla e um acrônimo que abarca as principais operações com dados na WEB. Estas operações geralmente são oferecidas via API - Application Programming Interface. As operações são explcadas a seguir:
 
 1. C -> Create - criar um novo registro no banco de dados
 2. R -> Retrieve (ou read) - Obtém um ou mais registros 3. U -> Atualiza um ou mais registros em um banco de dados
