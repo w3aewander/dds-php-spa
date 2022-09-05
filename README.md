@@ -125,3 +125,35 @@ class - Atribui o nome da classe a ser utilizado e que está referenciada na tag
 data-* - Cria atributos personalizados. Ex. data-nome = "Wanderlei"
 
 type  - tipo de dado do atribuito. Ex. text, date, time, tel, email, etc.
+
+### Exemplo de chamada de acesso ao DOM
+
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+   <meta name="viewport" content="width=device-width" ...>
+   <meta name="author" content="Wanderlei Silva">
+   <meta name="description"  content="Apenas para testar">
+
+   <title>Título da Página</title>
+
+   <!-- referencia para arquivos externos -->
+   <link rel="stylesheet" href="css/app.css">
+   <script src="js/app.js"></script>
+
+   <!-- estilos interos - visíveis apenas para a página atual -->
+   <style type="text/css">  <!-- o atributo type pode ser suprimido -->
+      ...
+          Seletores aqui...
+      ...
+   </style>
+</head>
+
+<body>
+ 
+    [desenvolvimento do contéudo aqui..]
+
+</body>
+
+</html>
