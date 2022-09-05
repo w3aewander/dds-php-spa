@@ -112,10 +112,10 @@ HEADER, MAIN, CONTENT, FOOTER, ARTICLE
 
 
 ## Atributos de TAG's HTML
-src
+- src
 
-rel
+- rel
 
-class
+- class
 
-data-*
+- data-*
