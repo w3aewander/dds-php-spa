@@ -18,7 +18,7 @@ Para enterermos melhor temos que conhecer o DOM.
 
 ## DOM - Document Object Model 
 
-![DOM - document object model](https://www.optimizesmart.com/wp-content/uploads/2014/05/HTML-DOM-Tree.jpg, 'Document Object Model')
+![DOM - document object model](https://www.optimizesmart.com/wp-content/uploads/2014/05/HTML-DOM-Tree.jpg 'Document Object Model')
 
 **Fonte:** https://www.optimizesmart.com/wp-content/uploads/2014/05/HTML-DOM-Tree.jpg. Acesso em: 05, setembro de 2022.
 
