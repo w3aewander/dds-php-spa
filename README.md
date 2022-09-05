@@ -114,10 +114,11 @@ HEADER, MAIN, CONTENT, FOOTER, ARTICLE
 
 ### Atributos de TAG's HTML
 
-src
+src   - informa o caminho da referência informada (caminho relativo ou absoluto do recursos)
 
-rel
+rel   - tipo de referência ex. styleshet, icon, etc.  
 
+style - aplicação de estilos inline
 class
 
-data-*
+data-* - cria atributos personalizados. Ex. data-nome = "Wanderlei"
