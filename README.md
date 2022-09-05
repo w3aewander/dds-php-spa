@@ -6,7 +6,7 @@
 # Aplicação WEB com PHP 
 ## HTML, CSS, JavaScript 
 Vamos aprender a tríplice aliança HTML, CSS e JAVASCRIT.
-> Só pra deixar claro: JavaScript não é JAVA? Pequisem sobre ambas, as diferenças entre elas! Posso adiantar que em geral JavaScript precisa do Browser (temos outra abordagem onde o JS é renderizado no lado do servidor, mas aí já é outra história.)
+> Só pra deixar claro: JavaScript não é JAVA? Pequisem sobre as diferenças entre elas! Posso adiantar que em geral JavaScript precisa do Browser (temos outra abordagem onde o JS é renderizado no lado do servidor, mas aí já é outra história.)
 
 HTML - Hypertext Transfer Protocol - é responsável pelo texto ou o conteúdo da página propriamante dito. Dizemos então que o HTML exibe o conteúdo estático.
 
@@ -23,7 +23,7 @@ Para enterermos melhor temos que conhecer o DOM.
 **Fonte:** https://www.optimizesmart.com/wp-content/uploads/2014/05/HTML-DOM-Tree.jpg. Acesso em: 05, setembro de 2022.
 
 
-É uma árvore hierárquica que deve ser bem conhecida do desenvolvedor WEB pois é nela que trabalharemos para dar todo o dinamismo necessarios para criar sites atraentes.
+É uma árvore hierárquica que deve ser bem conhecida do desenvolvedor WEB pois é nela que trabalharemos para dar todo o dinamismo necessario para criar sites atraentes.
 
 ## Aplicação WEB - SPA
 Uma aplicação SPA, do inglês Simple Page Application usa uma abordagem onde o desenvolvimento da aplicação é realizada em página única, ou seja, apenas uma páginas principal, geralemente um index.html ou index.php.
