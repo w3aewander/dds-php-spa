@@ -32,7 +32,8 @@ Assim sendo, as interações com a página, bem como o carregamento de dados, s�
 CRUD é uma sigla e um acrônimo que abarca as principais operações com dados na WEB. Estas operações geralmente são oferecidas via API - Application Programming Interface. As operações são explcadas a seguir:
 
 1. C -> Create - criar um novo registro no banco de dados
-2. R -> Retrieve (ou read) - Obtém um ou mais registros 3. U -> Atualiza um ou mais registros em um banco de dados
+2. R -> Retrieve (ou read) - Obtém um ou mais registros 
+3. U -> Atualiza um ou mais registros em um banco de dados
 4. D -> Delete - excluir um ou mais registros em um banco de dados.
 
 ### O que tem a ver os verbos HTTP com o CRUD?
