@@ -12,3 +12,6 @@ Assim sendo, as interações com a página, bem como o carregamento de dados, s�
 1. Utilizar técnicas para carregar conteúdo dinamicamente sem recarregar toda a página.
 
 2. Utilizar os principais verbos HTTP nas requisições: GET, POST, PUT, DELETE, PATH, OPTION, etc.
+
+### Verbos HTTP
+![Verbos HTTP](https://dericferreira.files.wordpress.com/2014/10/ic303440.png 'Verbos HTTP')
