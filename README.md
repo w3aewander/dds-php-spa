@@ -115,6 +115,9 @@ HEADER, MAIN, CONTENT, FOOTER, ARTICLE
 ### Atributos de TAG's HTML
 
 src
+
 rel
+
 class
+
 data-*
