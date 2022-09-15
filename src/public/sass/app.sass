@@ -7,9 +7,27 @@ $cor-fundo-body: rgba(250, 250, 250, 0.8);
 $cor-fundo-header: #0738a1;
 $cor-fonte-header: #aaaaaa;
 $cor-text-header-shadow: rgba(255, 255, 255, 0.8);
+$cor-fundo-nav: rgba(220,228,230, .8);
 
 $degrade-box-opt: radial-gradient( #dce4e8b5 5%, $cor-fundo-header 100%, #dce4e8b5 5%); 
 
+@keyframes anima-label {
+      from {
+        
+           content: '>>';
+           color: red;    
+            font-weight: bolder;
+        
+      }
+    
+       to {
+          
+           content: '>>';
+           color: blue;    
+          font-weight: normal;
+        
+       }
+}
 @keyframes anima-1 {
     from {
         border: 1px outset #abcdef;
@@ -28,9 +46,29 @@ body {
 
 
 nav {
-  background-color: rgba(220,228,230, .8);    
+  background-color: $cor-fundo-nav;    
   padding: 5px 5px;
 }
+
+input{
+   text-transform: uppercase;
+   color: #010101;
+  
+}
+
+#form-group-novoaluno:hover  #label-nome {
+   animation: anima-label .9s infinite;   
+   font-height: 20px;    
+}
+    
+
+.circulo{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    border-radius: 50%;
+}  
+
 
 .header{
     padding: 2rem;

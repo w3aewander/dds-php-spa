@@ -5,14 +5,14 @@
  * 
 */
 @keyframes anima-label {
-  from {
-    content: '>>';
-    color: red;
-    font-weight: bolder; }
-  to {
-    content: '>>';
-    color: blue;
-    font-weight: normal; } }
+  0% {
+    color: green; }
+  50% {
+    color: lightgreen; }
+  75% {
+    color: lightblue; }
+  100% {
+    color: blue; } }
 @keyframes anima-1 {
   from {
     border: 1px outset #abcdef;
@@ -30,16 +30,9 @@ nav {
 input {
   text-transform: uppercase;
   color: #010101; }
-
-#form-group-novoaluno:hover #label-nome {
-  animation: anima-label .9s infinite;
-  font-height: 20px; }
-
-.circulo {
-  width: 100px;
-  height: 100px;
-  border: 2px solid red;
-  border-radius: 50%; }
+  input:hover {
+    font-weight: bolder;
+    animation: anima-label .9s infinite; }
 
 .header {
   padding: 2rem;
@@ -75,4 +68,4 @@ input {
     display: inline-block;
     text-decoration: none; }
 
-/*# sourceMappingURL=app.css.map */
+/*# sourceMappingURL=app.css].map */
